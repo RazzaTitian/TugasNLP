@@ -5,7 +5,7 @@
 Buka file, jalankan:
 
 * **Cell 1–2** → komponen utama
-* **Cell 3 (opsional)** → visualisasi *attention*
+* **Cell 3** → visualisasi *attention*
 
 
 ## 🧩 Komponen yang Diimplementasikan
